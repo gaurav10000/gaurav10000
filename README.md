@@ -9,7 +9,7 @@
 <body>
     <div>
         <p>
-            hi there, it's my first website.
+            hi there, it's my very first website.
         </p>
         <button>
             <a href="./contact.html">button</a>
